@@ -1,0 +1,23 @@
+{
+  "name": "kurul_big_goal",
+  "version": "1.0.0",
+  "description": "Bot for record your goal and your step to get it. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BayaYi/Kurul-Big-Goal.git"
+  },
+  "keywords": [
+    "Personal",
+    "Life"
+  ],
+  "author": "BayYi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BayaYi/Kurul-Big-Goal/issues"
+  },
+  "homepage": "https://github.com/BayaYi/Kurul-Big-Goal#readme"
+}
